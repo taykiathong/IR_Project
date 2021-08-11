@@ -15,7 +15,12 @@ Test_cleaned_data.csv → includes the remaining 20% of cleaned_data.csv
 
 Cleandata.ipynb → initial steps to clean up the original csv file and preprocess it
 
+CosineSimilarity.ipynb→  ipynb file to run cosine similarity and cosine similarity with pos tagging, relevance feedback , Average Precision; includes other methods explored such as AND, OR, Jaccard Similarity and Boolean Retrieval.
+
 Bm25_og.ipynb → original bm25 model code
 
 Bm25_postag.ipynb → bm25 model code with added weights for specific terms such as location, place, position
+
+bm25_ap→ ipynb file for bm25 for relevance feedback and Average Precision
+
 
