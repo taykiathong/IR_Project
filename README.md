@@ -2,7 +2,7 @@
 
 ## JobMatch
 
-### Our project looks to focus on the theme of queries regarding job searches. Our team understands the pain with regards to finding jobs as almost-graduates ourselves, and many a time we will head online to look for relevant reviews for the job and/or the company that we are applying for. These reviews will be able to better help our understanding of the position and the company we are applying for, and also to get a general sense of the attitude towards that current role based on current or past staff.
+Our project looks to focus on the theme of queries regarding job searches. Our team understands the pain with regards to finding jobs as almost-graduates ourselves, and many a time we will head online to look for relevant reviews for the job and/or the company that we are applying for. These reviews will be able to better help our understanding of the position and the company we are applying for, and also to get a general sense of the attitude towards that current role based on current or past staff.
 
 
 Job_reviews.csv → original csv file
